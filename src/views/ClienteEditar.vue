@@ -37,7 +37,7 @@
           </div>
 
           <div class="mb-3">
-            <label for="input" class="form-label">Dirección:</label>
+            <label for="input" class="form-label">Dirección:</label >
             <input type="text" class="form-control" id="direccion" name="direccion" v-model="capturardato.direccion"
               placeholder="Ingrese informacion" required>
           </div>
