@@ -44,7 +44,7 @@
 export default {
   name: 'menu',
 
-  data() { // data palabra reservada
+  data() { // data palabra reservada  
     return {
       mostrarperfil: [] // arreglo para contener los empleados
     }
